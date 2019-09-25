@@ -1,7 +1,7 @@
 Template
 ========
 
-- `Panduan Navigasi Wisata Indonesia <https://www.navi.id>`_
+- `Paket Liburan Jogja <https://www.kartanesia.com>`_
 $project will solve your problem of where to start with documentation,
 by providing a basic explanation of how to do it easily.
 
