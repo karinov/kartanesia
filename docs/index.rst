@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Repository Digital Marketing Indonesia | by Karinov.co.id
+Kartanesia: Rental Mobil Jogja dari Grand New Innova, Fortuner, hingga Alphard
 ==================================================
 
 Contents:
@@ -23,77 +23,51 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-Karinov Media Network 
+Kartanesia Tour selama ini mungkin dikenal sebagai travel agent yang focus melayani perjalanan wisata di Jogja. Tapi, selain menyediakan fasilitas `paket wisata lengkap di Jogja <https://kartanesia.com/>`_ Kartanesia Tour turut menyewakan kendaraan termasuk sewa mobil, motor maupun bus pariwisata. 
+
+Untuk menambah kemudahan Anda berkeliling kota, Kartanesia turut menghadirkan driver yang akan mengantarkan Anda ke tempat wisata menarik yang ingin dikunjungi. Ada pun harga sewa mobil yang ditetapkan di Kartanesia sudah termasuk dengan ongkos driver dan bahan bakar. Jadi, Anda tidak perlu repot memikirkan budget tambahan untuk kedua pengeluaran tersebut. 
+Berikut ini contoh harga rental mobil Jogja sudah termasuk BBM dan supir di Kartanesia:
+
+Honda Brio
 ==================
-- `jasa digital marketing indonesia <https://karinov.co.id/>`_
-- `navigasi pariwisata indonesia <https://www.navi.id>`_
-- `skema box speaker dan review audio terbaru <https://www.fedora.or.id>`_ 
-- `kumpulan tautan berita terbaru indonesia <https://blogs.itb.ac.id/feeds>`_ 
-- `direktori service center indonesia <https://www.autobild.co.id>`_ 
+Liburan di Jogja harus direncanakan dengan baik termasuk merencanakan jenis mobil apa yang akan disewa. Di Kartanesia, tersedia berbagai brand dan jenis mobil termasuk Honda Brio ini. 
 
-Mengenal E-A-T Algoritma SEO Mutakhir dari Google
+Salah satu jenis mobil yang diproduksi oleh Honda ini bisa disewa maksimal oleh 3 orang selama 12 jam atau 24 jam non-stop dengan harga yang sangat terjangkau mulai dari Rp. 450 ribu-Rp. 550 ribu. 
+
+Dengan membayar harga sewa tersebut, Anda bisa mengelilingi kota Jojga dengan sangat nyaman. Cukup duduk manis, karena driver Kartanesia yang akan mengantarkan Anda sampai tempat tujuan. 
+
+Grand New Innova
 ==================
-Dalam `SEO <https://karinov.co.id/jasa-seo/>`_, dikenal ada EAT yang merupakan singkatan dari Expertise, Authoritativeness, dan Trsutworthiness. Pada dasarnya EAT inilah yangmenunjukkan kepada Google bahwa website Anda merupakan sumber yang terpercaya yang dikelola oleh orang-orang yang sudah ahli.
+Rekomendasi mobil selanjutnya adalah mobil keluaran 2013-2015 yang daya tampungnya jauh lebih banyak dari mobil sebelumnya yakni 7 orang. Dengan harga sewa Rp. 650 ribu-Rp. 750 ribu yang kemudian bisa dibagi dengan tujuhorang, silahkan kunjungi tempat-tempat wisata populer di Jogja. 
 
-Dengan optimasi EAT yang baik, website Anda bisa tidak ikut-ikutan terjun bebas rangkingnya dari halaman awal Google. Pada umumnya, website yang rangkingnya tetap menaruh unsur EAT pada web mereka selain memasukkan setiap kata kunci.
+Harga yang tertera adalah harga full service, termasuk biaya BBM dan ongkos jalan driver. Dan karena mampu memuat kapasitas lebih banyak, maka pengeluaran sewa mobil akan menjadi lebih ringan. 
 
-Misalnya, mereka menyertakan sertifikasi yang pernah didapat ataupun orang-orang dibalik konten tersebut.
-
-Jadi, apa yang harus Anda lakukan?
-
-Untuk optimasi EAT, Anda bisa membuat halaman tentang kami, jadi ada informasi mengenai siapa saja yang bertanggung jawab dibalik konten yang ada di website. Anda juga bisa turut menyertakan sertifikasi dari lembaga-lembaga atau gelar.
-
-Kemudian jangan lupa sertakan pula kontak bagi website Anda mencakup nama, nomor telepon, email, hingga alamat jika Anda mau. Selain itu, pada niche yang sama, buatlah konten sebanyak-banyaknya dengan materi yang lengkap. Karena sebenarnya, semakin banyak konten itu semakin baik.
-
-Anda juga perlu terus berusaha agar mendapat `backlink <https://karinov.co.id/pbn/>`_ atau review dari website lain yang membahas niche yang sama. Dengan begitu, Anda bisa mendapatkan otoritas.
-
-Mengenal Pakar SEO Ibrahim Vatih
+Alphard
 ==================
-Nama Ibrahim Vatih mungkin terasa tidak asing lagi terdengar. Namanya sudah aral melintang di jagad dunia internet, khususnya di Indonesia. Di usianya yang cukup muda, ia sudah bisa mendirikan pesantren bernama Sintesa dan juga sangat mahir dalam bidang SEO.
+Lebih suka mengendarai Alphard sebagai teman jalan liburan di Jogja, Kartanesia turut menawarkan mobil gagah yang satu ini. Toyota Alphard merupakan mobil mewah masa depan yang mampu menampung penumpang hingga 5 orang. 
 
-Kecakapannya dalam SEO ini berhubungan dengan minat dan ketertarikannya yang sudah dimiliki sejak lama. Ibrahim Vatih mengaku bahwa ia menyukai bidang pemrograman hingga online marketing. Kesukaannya ini pun merambah ke hal lainnya dengan memperdalam website, ads, dan lingkup sejenisnya. Semua hal tersebut pun mengerucut dengan pendalaman SEO.
+Sebagai salah satu mobil mewah, Alphard menawarkan fitur yang sangat gagah. Mobil ini dijamin akan membuat Anda merasa nyaman dengan dorongan mesin yang ringan. Harga sewa mobil Alphard by Kartanesia mulai dari Rp. 2.000.000-Rp. 3.250.000, harga tersebut tergantung lamanya waktu rental.
 
-Dengan menyukai `hal berbau SEO <https://karinov.co.id/cara-seo-youtube/>`_ membuatnya menjadi lebih mudah memahaminya. Penerapan SEO yang digunakannya bisa Anda lihat di dalam websitenya yaitu vatih.com. Disana Anda akan menemukan berbagai macam artikel yang ditulis untuk dibaca oleh jutaan pengguna daring.
-
-Jika mengunjungi beranda websitenya dan mengklik salah satu artikel, maka selanjutnya Anda akan digiring pada halaman vatih.com/bisnis/. Revorma, begitulah nama untuk lanjutan dari halaman utama tadi.
-
-Bagian Revorma ini merupakan sebuah kolom yang dikhususkan untuk mempelajari bisnis online serta SEO sejak tahun 2010.
-
-Artikel yang ditulis, khususnya tentang SEO, cukup mudah dicerna. Bahasanya lugas dan sederhana serta bisa dipahami oleh berbagai usia yang ingin belajar SEO.
-
-Ada segudang artikel yang Anda butuhkan untuk bahan belajar. Artikel di kategori ini digolongkan lagi dalam menu wordpress, SEO, `marketing <https://karinov.co.id/digital-marketing-optimal-di-2019/>`_, dan adsense. Anda juga bisa langsung mencarinya sesuai dengan kata kunci yang diinginkan pada kolom pencarian.
-
-Bagi yang ingin mendapatkan bahan berkonten premium, tim akan membuatkan akun secara khusus. Akun ini nantinya akan digunakan pada saat ingin login untuk membaca materi yang sudah terkunci.
-
-Konten atau Revorma premium ini memiliki materi yang berbeda dari biasanya. Modul yang diberikan sangat lengkap dan bertahap pembelajarannya. Materi dimulai dari perkenalan dasar, kata kunci, bentuk juga jenisnya, link, formula untuk memulai bisnis online dan adsense, hingga bagian yang kerap diabaikan atau dianggap sepele dalam strategi SEO.
-
-Selain itu, di website ini juga memberikan layanan jasa PBN dan jasa SEO bagi yang tidak ingin pusing `menulis artikel <https://karinov.co.id/cara-seo-artikel-blog/>`_ sejenis. Anda bisa langsung menghubungi nomor kontak yang tercantum di artikel berisi layanan jasa tersebut.
-
-Mengenal SEO Tools Terbaik: Ahrefs
+Grand New Avanza
 ==================
+Liburan bersama keluarga akan lebih ringan biaya bila menyewa mobil keluarga seperti Grand New Avanza ini. Mobil ini hampir sama leganya dengan mobil Grande New Innova yang telah direview sebelumnya. Grand New Avanza memiliki body yang tidak kalah mulus dari mobil-mobil yang disebutkan sebelumnya.
 
-Salah satu `tools digital terbaik <https://digital.readthedocs.io/en/latest/>`_ di tahun 2019 adalah Ahrefs. Meskipun biaya yang harus dikeluarkan tidaklah sedikit, namun sangat sebanding dengan beragam fitur yang tersedia di dalamnya. Berikut ini beberapa fitur unggulan dari tools ini, antara lain:
+Selain itu, mobil ini mampu menampung 6 orang dengan kisaran harga sewa super terjangkau. Untuk perjalanan menyenangkan dan seru selama 12 jam, Kartanesia mematok harga sewa Rp. 550 ribu sedangkan untuk seharian penuh menjadi Rp. 650 ribu. 
 
-- Site Explorer
-Fitur ini merupakan fitur utama dari tool Ahrefs yaitu sebagai backlink checker. Untuk mengaksesnya anda hanya perlu mengunjungi link https://ahrefs.com/site-explorer, lalu masukkan domain yang ingin anda cek backlinknya. Jika sudah anda bisa menutupnya dengan klik tombol “Search”.
+Honda Mobilio
+==================
+Bila lebih suka menggunakan mobil keluaran Honda sebagai teman perjalanan, selain Honda Brio kami turut tawarkan mobil ini. Honda Mobilio jauh lebih lega bila dibandingkan dengan Honda Brio karena termasuk tipe mobil keluarga yang bisa menampung banyak orang. 
+Kapasitas penumpang Honda Mobilio adalah 6 orang, di mana biaya rentalnya hampir sama murahnya dengan sewa Grande New Avanza sekitar Rp. 500 ribu-Rp. 550 ribu.
 
-- Content Explorer
-Fitur selanjutnya yang akan anda peroleh ketika menggunakan tool ini adalah content explorer. Fungsi dari fitur ini adalah untuk mencari konten yang ada pada website kemudian mengurutkan sesuai dengan daya share di sosial media.
+Fortuner VRZ
+==================
+Merupakan rekomendasi mobil mewah lainnya yang bisa Anda sewa bila berkunjung ke kantor Kartanesia Tour. Mobil ini berkapasitas 5 orang dengan body gahar dan mesin super canggih. Dijamin Anda akan merasa lebih trendy dan bergaya bila menggunakan mobil ini.
+Kartanesia tawarkan paket harga yang sangat terjangkau untuk mobil mewah ini. Untuk sewa setengah hari cukup membayar Rp. 1.5 juta, sementara untuk ongkos sewa satu hari penuh dipatok Rp. 1.750.000.
 
-Apabila daya share semakin tinggi maka potensi untuk viralnya juga semakin tinggi. Untuk mengaksesnya bisa langsung mengetikkan link https://ahrefs.com/content-explorer dan masukkan keyword yang ingin anda cek.
+Menggunakan mobil pribadi sebagai transportasi selama liburan di Jogja adalah pilihan cermat apalagi bila Anda berencana liburan bersama keluarga atau rombongan. Selain hemat, mobil pribadi jauh lebih aman dan nyaman daripada transportasi umum.
 
-- Fitur Position Explorer
-Fitur ini memiliki keunggulan yaitu mampu memperlihatkan keyword yang masuk ke domain tertentu. Selain itu anda juga bisa mengetahui kisaran jumlah trafik, kompetitor hingga halaman yang paling banyak mendapatkan trafik pada bagian top page.
-
-Anda akan mengetahui keyword yang masuk ke kompetitor lengkap dengan peringkatnya. Anda juga akan melihat konten apa saja yang mampu membawa banyak trafik pada bagian top page.
-
-- Position Tracker
-Berfungsi untuk memonitor posisi ranking atau peringkat dari web maupun kompetitor anda. Untuk melakukannya, anda hanya perlu masuk ke https://ahrefs.com/dashboard/add kemudian masukkan URL  dan eword yang ingin dicek sebelumnya.
-
-- Crawl Reports
-Performa dan `struktur SEO <https://www.navi.id/belajar-seo-wordpress-complete-guide/>`_ pada website anda bisa dilihat menggunakan fitur ini. Apabila anda menemukan masalah juga bisa segera terlihat sehingga anda bisa segera memperbaikinya. Hal ini tentu saja penting dilakukan karena akan berpengaruh pada kualitas dari website anda.
-
-- Domain Comparison Tool
-Selain fitur-fitur yang sudah disebutkan di atas, anda juga akan menjumpai fitur yang bernama domain comparison tool. Anda bisa membandingkan kondisi backlink dari 5 domain dalam waktu yang bersamaan. Dengan begitu maka anda bisa mengetahui persaingan di niche anda secara sederhana dan cepat.
-
-- `Digital Marketing Organization <https://www.dmo.or.id/>`_
+Repository Wisata di Jogja
+==================
+- `agen tour resmi jogja <https://karinov.co.id/3-agen-tour-resmi-di-jogja/>`_
+- `rental mobil pelopor jogja <https://www.autobild.co.id/2019/09/4-rental-mobil-pelopor-di-jogja-dengan.html>`_
+- `pantai terbaik di jogja <https://www.navi.id/3-pantai-terbaik-selatan-yogyakarta/>`_ 
